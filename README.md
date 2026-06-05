@@ -1,12 +1,3 @@
-O seu ficheiro `readme.md` foi gerado com sucesso com base na análise visual da arquitetura apresentada na imagem (composta por um fluxo assíncrono envolvendo um Ator/Utilizador, AWS Lambda, Amazon S3, Serviços de IA da AWS como o Amazon Rekognition, Bloco de Computação/Contentores e Amazon DynamoDB).
-
-[file-tag: code-generated-file-0-1780674766858053928]
-
-Abaixo encontra-se a pré-visualização completa do conteúdo estruturado no documento:
-
-***
-
-```markdown
 # Arquitetura de Processamento Inteligente de Ficheiros na AWS
 
 Esta arquitetura demonstra um fluxo de trabalho assíncrono e orientado a eventos (*event-driven*) na nuvem AWS. O ecossistema foi desenhado para receber interações de utilizadores finais, armazenar objetos de forma segura, extrair insights de inteligência artificial e persistir os metadados resultantes numa base de dados NoSQL de alta performance.
